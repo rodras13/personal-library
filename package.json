@@ -1,0 +1,18 @@
+{
+  "name": "personal-library",
+  "version": "1.0.0",
+  "description": "A personal web to practice about backend and frontend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rodras13",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.1+sha512.e519b9f7639869dc8d5c3c5dfef73b3f091094b0a006d7317353c72b124e80e1afd429732e28705ad6bfa1ee879c1fce46c128ccebd3192101f43dd67c667912",
+  "devDependencies": {
+    "eslint": "^9.28.0",
+    "globals": "^16.2.0"
+  }
+}
